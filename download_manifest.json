@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "repository": "https://github.com/avinashkr29/Study-Kaji-Resources",
+  "base_download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/",
+  "total_packs": 8,
+  "packs": [
+    {
+      "id": "N5",
+      "name": "N5",
+      "filename": "N5.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/N5.zip",
+      "size_bytes": 18631680,
+      "size_mb": 17.77,
+      "kanji_count": 79,
+      "images_count": 100,
+      "description": "JLPT N5 kanji with mnemonic images"
+    },
+    {
+      "id": "N4",
+      "name": "N4",
+      "filename": "N4.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/N4.zip",
+      "size_bytes": 70160898,
+      "size_mb": 66.91,
+      "kanji_count": 170,
+      "images_count": 364,
+      "description": "JLPT N4 kanji with mnemonic images"
+    },
+    {
+      "id": "N1_part1",
+      "name": "N1 Part1",
+      "filename": "N1_part1.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/N1_part1.zip",
+      "size_bytes": 145918971,
+      "size_mb": 139.16,
+      "kanji_count": 400,
+      "images_count": 729,
+      "description": "JLPT N1_part1 kanji with mnemonic images"
+    },
+    {
+      "id": "N1_part2",
+      "name": "N1 Part2",
+      "filename": "N1_part2.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/N1_part2.zip",
+      "size_bytes": 282425126,
+      "size_mb": 269.34,
+      "kanji_count": 400,
+      "images_count": 1439,
+      "description": "JLPT N1_part2 kanji with mnemonic images"
+    },
+    {
+      "id": "er",
+      "name": "Er",
+      "filename": "er.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/er.zip",
+      "size_bytes": 28613255,
+      "size_mb": 27.29,
+      "kanji_count": 68,
+      "images_count": 152,
+      "description": "JLPT er kanji with mnemonic images"
+    },
+    {
+      "id": "N1_part3",
+      "name": "N1 Part3",
+      "filename": "N1_part3.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/N1_part3.zip",
+      "size_bytes": 112498766,
+      "size_mb": 107.29,
+      "kanji_count": 331,
+      "images_count": 647,
+      "description": "JLPT N1_part3 kanji with mnemonic images"
+    },
+    {
+      "id": "N2",
+      "name": "N2",
+      "filename": "N2.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/N2.zip",
+      "size_bytes": 182062169,
+      "size_mb": 173.63,
+      "kanji_count": 380,
+      "images_count": 921,
+      "description": "JLPT N2 kanji with mnemonic images"
+    },
+    {
+      "id": "N3",
+      "name": "N3",
+      "filename": "N3.zip",
+      "download_url": "https://github.com/avinashkr29/Study-Kaji-Resources/releases/download/v1.0/N3.zip",
+      "size_bytes": 180204227,
+      "size_mb": 171.86,
+      "kanji_count": 370,
+      "images_count": 953,
+      "description": "JLPT N3 kanji with mnemonic images"
+    }
+  ]
+}
